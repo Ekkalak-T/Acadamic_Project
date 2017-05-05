@@ -5,6 +5,6 @@ The subject is to do image processing for video traffic to extract the average i
 
 The main code is "dindaeng.m" which goes through processes as image below 
 
-![1.1](/images/1.1.PNG)
+![1.1](/images/1.1.png)
 
 (a) Original image; (b) Background subtraction; (c) Shadow removal; (d) Dilation operation; (e) Fill Holes operation; (f) the virtual detector
